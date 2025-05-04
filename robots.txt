@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://machinery-commissioning-oman.alwejhagroup.com/sitemap.xml
